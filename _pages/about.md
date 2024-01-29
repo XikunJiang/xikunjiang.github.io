@@ -12,6 +12,12 @@ I am a Postdoctoral Fellow at the [University of Copenhagen](https://www.ku.dk/)
 
 My research lies in the intersection of economics, online markets, and machine learning. In particular, I focus on designing algorithms for novel techniques in data trading. In addition, I am also interested in Crowdsourcing and Blockchain.
 
+News
+------
+1. [Mar. 2023] (1st author) One paper regarding Incentive Mechanism submitted to IEEE Transactions on Services Computing!
+2. [Jan. 2024] (1st author) One paper regarding Dynamic Pricing submitted to IJCAI'24!
+3. [Jan. 2024] (1st author) One paper regarding Privacy-Preserving UCB submitted to IJCAI'24!
+4. [Jan. 2024] (co-1st author) One paper regarding Quantization Weighted Majority Algorithm submitted to AAMAS!
 
 Publications
 ------
@@ -38,19 +44,3 @@ Algorithm Intern
 Data Program Group, Intel Asia-Pacific Co.
 
 2021.05 – 2022.06, Shanghai, China.
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
