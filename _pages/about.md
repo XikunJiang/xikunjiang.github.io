@@ -31,8 +31,8 @@ Publications
 
 Services
 ------
-1. PC Member: The 32nd European Conference on Information Systems (ECIS 2024)
-1. PC Member: The IET Blockchain Journal
+1. Associate Editor: The 32nd European Conference on Information Systems ([ECIS 2024](https://ecis2024.eu/track-descriptions/))
+2. PC Member: The [IET Blockchain Journal](https://ietresearch.onlinelibrary.wiley.com/journal/26341573)
 
 Talks
 ------
