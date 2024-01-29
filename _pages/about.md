@@ -31,15 +31,13 @@ Talks
 Exploring Data Collection, Selling, and Privacy in Data Markets, Aug 2023, East China Normal University, Shanghai, China.
 
 
-# Experience
+Experience
 ------
 Algorithm Intern
 
 Data Program Group, Intel Asia-Pacific Co.
 
-2021.05 – 2022.06
-
-Shanghai, China.
+2021.05 – 2022.06, Shanghai, China.
 
 **Markdown generator**
 
