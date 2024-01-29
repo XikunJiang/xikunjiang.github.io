@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Xikun Jiang"
   avatar           : "Xikun.png"
-  bio              : "Postdoctoral Fellow"
-  #employer         : "Department of Computer Science"
-  location         : "Copenhagen, Denmark"
+  bio              : "Postdoc"
   employer         : "Copenhagen University"
+  location         : "Copenhagen, Denmark"
+  #employer         : "Department of Computer Science"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "xikun@di.ku.dk"
