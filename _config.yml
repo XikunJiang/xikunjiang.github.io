@@ -83,13 +83,13 @@ author:
   name             : "Xikun Jiang"
   avatar           : "Xikun.png"
   bio              : "Postdoc"
-  employer         : "Copenhagen University"
-  location         : "Copenhagen, Denmark"
+  employer         : "Department of Computer Science"
+  location         : "Copenhagen University"
   #employer         : "Department of Computer Science"
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "xikun@di.ku.dk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
