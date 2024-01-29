@@ -14,15 +14,14 @@ My research lies in the intersection of economics, online markets, and machine l
 
 
 # Experience
-Algorithm Intern
-Data Program Group, Intel Asia-Pacific Co.
-Shanghai, China
-2021.05 – 2022.06
+**Algorithm Intern**
 
-I was engaged in AI on the cloud, with my role centered around the construction of the cloud computing management platform, utilizing OpenStack, Kubernetes, and Kubeflow. Additionally, I undertook the execution of diverse AI projects built upon these frameworks.
+Data Program Group, Intel Asia-Pacific Research & Development Ltd, Shanghai, China.
+
+2021.05 – 2022.06: I was engaged in AI on the cloud, with my role centered around the construction of the cloud computing management platform, utilizing OpenStack, Kubernetes, and Kubeflow. Additionally, I undertook the execution of diverse AI projects built upon these frameworks.
 
 
-Getting started
+Getting started 
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
