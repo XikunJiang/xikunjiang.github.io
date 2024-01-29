@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Fellow"
   #location         : "Department of Computer Science"
   employer         : "Department of Computer Science"
-  employer         : "Copenhagen University"
+  #employer         : "Copenhagen University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "xikun@di.ku.dk"
