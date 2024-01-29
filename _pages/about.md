@@ -13,7 +13,16 @@ I am a Postdoctoral Fellow at the [University of Copenhagen](https://www.ku.dk/)
 My research lies in the intersection of economics, online markets, and machine learning. In particular, I focus on designing algorithms for novel techniques in data trading. In addition, I am also interested in Crowdsourcing and Blockchain.
 
 
+Publications
+------
+1. Jiang, Xikun, Neal N. Xiong, Xudong Wang, Chenhao Ying, Fan Wu, and Yuan Luo. "DIVINE: A pricing mechanism for outsourcing data classification service in data market." Information Sciences 636 (2023): 118922.
+2. Jiang, Xikun, Chaoyue Niu, Chenhao Ying, Fan Wu, and Yuan Luo. "Pricing GAN-based data generators under Rényi differential privacy." Information Sciences 602 (2022): 57-74.
+3. Jiang, Xikun, Chenhao Ying, Xinchun Yu, Boris Düdder, and Yuan Luo. "Incentive Mechanism Design for Uncertain Tasks in Mobile Crowd Sensing Systems Utilizing Smart Contract in Blockchain." In International Conference on Collaborative Computing: Networking, Applications and Worksharing, pp. 475-493. Cham: Springer Nature Switzerland, 2022.
+4. Li, Lei, Tianfang Zhang, Zhongfeng Kang, and Xikun Jiang. "Mask-FPAN: Semi-supervised Face Parsing in the Wild with De-occlusion and UV GAN." Computers & Graphics 116 (2023): 185-193.
+
+
 # Experience
+------
 **Algorithm Intern**
 
 Data Program Group, Intel Asia-Pacific Research & Development Ltd, Shanghai, China.
@@ -22,17 +31,14 @@ Data Program Group, Intel Asia-Pacific Research & Development Ltd, Shanghai, Chi
 
 
 Services
-======
+------
 1. PC Member: The 32nd European Conference on Information Systems (ECIS 2024)
 1. PC Member: The IET Blockchain Journal
 
-Site-wide configuration
+Talks
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Exploring Data Collection, Selling, and Privacy in Data Markets, Aug 2023, East China Normal University, Shanghai, China.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
 
