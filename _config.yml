@@ -83,14 +83,13 @@ author:
   name             : "Xikun Jiang"
   avatar           : "Xikun.png"
   bio              : "Postdoctoral Fellow"
-  #location         : "Department of Computer Science"
+  location         : "Copenhagen, Denmark"
   employer         : "Department of Computer Science"
   #employer         : "Copenhagen University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "xikun@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  phone            : "+45 50307737"
   uri              :
   bitbucket        :
   codepen          :
@@ -111,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "sarajiang3"
   vine             :
   weibo            :
   xing             :
