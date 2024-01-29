@@ -85,11 +85,11 @@ author:
   bio              : "Postdoc"
   location         : "Department of Computer Science"
   employer         : "Copenhagen University"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "xikun@di.ku.dk"
-  researchgate     : # "https://www.researchgate.net/profile/yourprofile"
-  uri              : # "https://di.ku.dk/english/staff/vip/researchers_sdps/?pure=en/persons/773447"
+  researchgate     :
+  uri              : "https://di.ku.dk/english/staff/vip/researchers_sdps/?pure=en/persons/773447"
   bitbucket        :
   codepen          :
   dribbble         :
