@@ -14,8 +14,11 @@ My research lies in the intersection of economics, online markets, and machine l
 
 
 # Experience
-## As an Algorithm Intern at Intel Asia-Pacific Co.'s Data Program Group from May 2021 to June 2022, Shanghai, China.
-======
+Algorithm Intern
+Data Program Group, Intel Asia-Pacific Co.
+Shanghai, China
+2021.05 – 2022.06
+
 I was engaged in AI on the cloud, with my role centered around the construction of the cloud computing management platform, utilizing OpenStack, Kubernetes, and Kubeflow. Additionally, I undertook the execution of diverse AI projects built upon these frameworks.
 
 
