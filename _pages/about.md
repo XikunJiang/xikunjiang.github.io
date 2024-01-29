@@ -21,15 +21,6 @@ Publications
 4. Li, Lei, Tianfang Zhang, Zhongfeng Kang, and Xikun Jiang. "Mask-FPAN: Semi-supervised Face Parsing in the Wild with De-occlusion and UV GAN." Computers & Graphics 116 (2023): 185-193.
 
 
-# Experience
-------
-**Algorithm Intern**
-
-Data Program Group, Intel Asia-Pacific Research & Development Ltd, Shanghai, China.
-
-2021.05 – 2022.06: I was engaged in AI on the cloud, with my role centered around the construction of the cloud computing management platform, utilizing OpenStack, Kubernetes, and Kubeflow. Additionally, I undertook the execution of diverse AI projects built upon these frameworks.
-
-
 Services
 ------
 1. PC Member: The 32nd European Conference on Information Systems (ECIS 2024)
@@ -39,6 +30,16 @@ Talks
 ------
 Exploring Data Collection, Selling, and Privacy in Data Markets, Aug 2023, East China Normal University, Shanghai, China.
 
+
+# Experience
+------
+Algorithm Intern
+
+Data Program Group, Intel Asia-Pacific Co.
+
+2021.05 – 2022.06
+
+Shanghai, China.
 
 **Markdown generator**
 
