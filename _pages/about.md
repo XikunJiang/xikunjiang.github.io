@@ -15,9 +15,11 @@ My research lies in the intersection of economics, online markets, and machine l
 News
 ------
 1. [Mar. 2023] (1st author) One paper regarding Incentive Mechanism submitted to IEEE Transactions on Services Computing!
-2. [Oct. 2023] (1st author) One paper regarding Dynamic Pricing submitted to IJCAI'24!
-3. [Jan. 2024] (1st author) One paper regarding Privacy-Preserving UCB submitted to IJCAI'24!
-4. [Jan. 2024] (co-1st author) One paper regarding Quantization Weighted Majority Algorithm submitted to AAMAS!
+2. [Dec. 2023] One paper regarding Federated Learning submitted to ICDE'24!
+3. [Oct. 2023] One paper regarding Federated Learning submitted to IEEE Transactions on Mobile Computing!
+4. [Oct. 2023] (1st author) One paper regarding Dynamic Pricing submitted to IJCAI'24!
+5. [Jan. 2024] (1st author) One paper regarding Privacy-Preserving UCB submitted to IJCAI'24!
+6. [Jan. 2024] (co-1st author) One paper regarding Quantization Weighted Majority Algorithm submitted to AAMAS!
 
 Publications
 ------
