@@ -26,7 +26,7 @@ Publications
 1. Jiang, Xikun, Neal N. Xiong, Xudong Wang, Chenhao Ying, Fan Wu, and Yuan Luo. ["DIVINE: A pricing mechanism for outsourcing data classification service in data market."](https://www.sciencedirect.com/science/article/abs/pii/S0020025523004929) Information Sciences 636 (2023): 118922.
 2. Jiang, Xikun, Chaoyue Niu, Chenhao Ying, Fan Wu, and Yuan Luo. ["Pricing GAN-based data generators under Rényi differential privacy."](https://www.sciencedirect.com/science/article/pii/S0020025522003723) Information Sciences 602 (2022): 57-74.
 3. Jiang, Xikun, Chenhao Ying, Xinchun Yu, Boris Düdder, and Yuan Luo. ["Incentive Mechanism Design for Uncertain Tasks in Mobile Crowd Sensing Systems Utilizing Smart Contract in Blockchain."](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_26) In International Conference on Collaborative Computing: Networking, Applications and Worksharing, pp. 475-493. Cham: Springer Nature Switzerland, 2022.
-4. Li, Lei, Tianfang Zhang, Zhongfeng Kang, and Xikun Jiang. ["Mask-FPAN: Semi-supervised Face Parsing in the Wild with De-occlusion and UV GAN."](https://www.sciencedirect.com/science/article/abs/pii/S0097849323001735) Computers & Graphics 116 (2023): 185-193.
+4. Li, Lei, Zhang Tianfang, Kang Zhongfeng, and Jiang Xikun. ["Mask-FPAN: Semi-supervised Face Parsing in the Wild with De-occlusion and UV GAN."](https://www.sciencedirect.com/science/article/abs/pii/S0097849323001735) Computers & Graphics 116 (2023): 185-193.
 
 
 Services
