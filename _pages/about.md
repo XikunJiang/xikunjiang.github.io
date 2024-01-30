@@ -38,7 +38,7 @@ Talks
 ------
 -  "Exploring Data Collection, Selling, and Privacy in Data Markets" 
 
-    Aug 2023, East China Normal University, Shanghai, China.
+     Aug 2023, East China Normal University, Shanghai, China.
 
 
 Experience
