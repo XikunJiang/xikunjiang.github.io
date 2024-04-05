@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at the [University of Copenhagen](https://www.ku.dk/) and part of the [Software, Data, People & Society (SDPS) Section](https://di.ku.dk/english/research/sdps/). I earned my Ph.D. in Computer Science in 2023 from [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/index.aspx), under the guidance of advisors [Yuan Luo](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=155) and [Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/).
 
-My research lies in the intersection of economics, online markets, and machine learning. In particular, I focus on designing algorithms for novel techniques in data trading. In addition, I am also interested in Crowdsourcing and Blockchain.
+My research lies in the intersection of economics, online markets, and machine learning. In particular, I focus on designing algorithms for novel techniques in data trading. Additionally, I am also interested in verifiable machine learning and blockchain.
 
 News
 ------
