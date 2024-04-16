@@ -14,10 +14,10 @@ My research lies in the intersection of economics, online markets, and machine l
 
 News
 ------
-- **[Mar. 2024]** (1st author) One paper regarding Incentive Mechanism accepted by the IEEE Transactions on Services Computing!
+- **[Apr. 2024]** (1st author) Our paper "Privacy-Preserving UCB Decision Process Verification via zk-SNARKs" has been accepted by IJCAI'24!
+- **[Mar. 2024]** (1st author) Our paper "Incentive Mechanism for Uncertain Tasks under Differential Privacy" has been accepted by the IEEE Transactions on Services Computing!
 - **[Sep. 2023]** (co-1st author) One paper regarding Quantization Weighted Majority Algorithm submitted to AAMAS!
 - **[Oct. 2023]** One paper regarding Federated Learning submitted to IEEE Transactions on Mobile Computing!
-- **[Jan. 2024]** (1st author) One paper regarding Privacy-Preserving UCB submitted to IJCAI'24!
 
 Publications
 ------
