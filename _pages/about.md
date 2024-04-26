@@ -21,6 +21,7 @@ News
 
 Publications
 ------
+-  Jiang, Xikun, Chenhao Ying, Lei Li, Boris Düdder, Haiqin Wu, Haiming Jin, and Yuan Luo. ["Incentive Mechanism for Uncertain Tasks under Differential Privacy."](https://ieeexplore.ieee.org/abstract/document/10468636?casa_token=MkmDyQ2DnUoAAAAA:Gwm7xg0MqlKp5YBv16SYCxleThEaDLu6qFGm3qllEanlvRE37X16Po-kY7fXYJNpKAANbEspQac) IEEE Transactions on Services Computing (2024).
 -  Jiang, Xikun, Neal N. Xiong, Xudong Wang, Chenhao Ying, Fan Wu, and Yuan Luo. ["DIVINE: A pricing mechanism for outsourcing data classification service in data market."](https://www.sciencedirect.com/science/article/abs/pii/S0020025523004929) Information Sciences 636 (2023): 118922.
 -  Jiang, Xikun, Chaoyue Niu, Chenhao Ying, Fan Wu, and Yuan Luo. ["Pricing GAN-based data generators under Rényi differential privacy."](https://www.sciencedirect.com/science/article/pii/S0020025522003723) Information Sciences 602 (2022): 57-74.
 -  Jiang, Xikun, Chenhao Ying, Xinchun Yu, Boris Düdder, and Yuan Luo. ["Incentive Mechanism Design for Uncertain Tasks in Mobile Crowd Sensing Systems Utilizing Smart Contract in Blockchain."](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_26) In International Conference on Collaborative Computing: Networking, Applications and Worksharing, pp. 475-493. Cham: Springer Nature Switzerland, 2022.
