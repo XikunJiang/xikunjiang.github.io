@@ -10,13 +10,13 @@ redirect_from:
 
 I am a Postdoctoral Fellow at the [University of Copenhagen](https://www.ku.dk/) and part of the [Software, Data, People & Society (SDPS) Section](https://di.ku.dk/english/research/sdps/). I earned my Ph.D. in Computer Science in 2023 from [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/index.aspx), under the guidance of advisors [Yuan Luo](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=155) and [Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/).
 
-My research lies in the intersection of economics, data science, and machine learning. In particular, I focus on designing algorithms for novel techniques in data trading. Additionally, I am also interested in verifiable machine learning and blockchain.
+My research lies in the intersection of **[economics, data science, and machine learning]**. In particular, I focus on designing algorithms for novel techniques in **[data trading]**. Additionally, I am also interested in **[verifiable machine learning and blockchain]**.
 
 News
 ------
+- **[May. 2024]** Our paper "FAIR: Accurate Data Acquisition for Mobile Crowdsensing" has been accepted by the COCOON2024!
 - **[Apr. 2024]** (1st author) Our paper "Privacy-Preserving UCB Decision Process Verification via zk-SNARKs" has been accepted by IJCAI'24!
 - **[Mar. 2024]** (1st author) Our paper "Incentive Mechanism for Uncertain Tasks under Differential Privacy" has been accepted by the IEEE Transactions on Services Computing!
-- **[Sep. 2023]** (co-1st author) One paper regarding Quantization Weighted Majority Algorithm submitted to AAMAS!
 - **[Oct. 2023]** One paper regarding Federated Learning submitted to IEEE Transactions on Mobile Computing!
 
 Publications
