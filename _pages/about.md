@@ -40,12 +40,15 @@ Talks
 -  "Exploring Data Collection, Selling, and Privacy in Data Markets" 
 
      Aug 2023, East China Normal University, Shanghai, China.
+   
+-  "Ensuring Trust and Privacy in AI: From Secure Learning to Verifiable Decisions" 
 
+     Oct 2024, Copenhagen University, Copenhagen, Denmark.
 
 Experience
 ------
 Algorithm Intern
 
-Data Program Group, Intel Asia-Pacific Co.
+Data Program Group, Intel.
 
 2021.05 – 2022.06, Shanghai, China.
