@@ -29,6 +29,11 @@ Publications
 -  Jiang, Xikun, Chenhao Ying, Xinchun Yu, Boris Düdder, and Yuan Luo. ["Incentive Mechanism Design for Uncertain Tasks in Mobile Crowd Sensing Systems Utilizing Smart Contract in Blockchain."](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_26) In International Conference on Collaborative Computing: Networking, Applications and Worksharing, pp. 475-493. Cham: Springer Nature Switzerland, 2022.
 -  Chenhao Ying, Fuyuan Xia, David SL Wei, Xinchun Yu, Yibin Xu, Weiting Zhang, Xikun Jiang, Haiming Jin, Yuan Luo, Tao Zhang, and Dacheng Tao. ["BIT-FL: Blockchain-Enabled Incentivized and Secure Federated Learning Framework."](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10713281) IEEE Transactions on Mobile Computing (2024).
 
+Teaching
+------
+I am now actively teaching the following courses:
+-  [System Architecture and IT Security 2025](https://kursuskatalog.au.dk/en/course/130904/System-Architecture-and-IT-Security)
+-  [Proactive Computer Security 2025](https://kurser.ku.dk/course/ndaa09031u/2024-2025)
 
 Services
 ------
