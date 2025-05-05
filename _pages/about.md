@@ -14,6 +14,7 @@ My research lies in the intersection of **economics**, **data science**, and **m
 
 News
 ------
+- **[May. 2025]** Published [DineMate](https://dinemate.net/): your smart foodie sidekick. It helps you decide what to eat! No more dinner decision spirals. Try it at 🔗 https://dinemate.net/ — and let me know what you think!
 - **[Mar. 2025]** Our paper "Domain Generalization via Discrete Codebook Learning" has been accepted by the IEEE International Conference on Multimedia & Expo 2025!
 - **[Jan. 2025]** Our paper "Practical Iterative Quantum Consensus Protocol with Sharding Construction" has been accepted by IEEE JSAC UCP-QuantumEra special issue!
 
