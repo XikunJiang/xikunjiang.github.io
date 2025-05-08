@@ -38,8 +38,7 @@ I am now actively teaching the following courses:
 Services
 ------
 -  Associate Editor: The 32nd European Conference on Information Systems ([ECIS 2024](https://ecis2024.eu/track-descriptions/))
--  Reviewer: The Journal of [Knowledge and Information Systems](https://link.springer.com/journal/10115), [IEEE Transactions on Cognitive Communications and Networking](https://www.comsoc.org/publications/journals/ieee-tccn).
--  PC Member: The [IET Blockchain Journal](https://ietresearch.onlinelibrary.wiley.com/journal/26341573)
+-  Reviewer: The Journal of [Knowledge and Information Systems](https://link.springer.com/journal/10115), [IEEE Transactions on Cognitive Communications and Networking](https://www.comsoc.org/publications/journals/ieee-tccn), the [IET Blockchain Journal](https://ietresearch.onlinelibrary.wiley.com/journal/26341573).
 
 Talks
 ------
