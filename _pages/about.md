@@ -18,9 +18,7 @@ News
 ------
 - **[Oct. 2025]** Our paper "Zero-Knowledge Quantized Weighted Majority Algorithm" has been ACCEPTED as a FULL RESEARCH PAPER at IEEE Trustcom2025!
 - **[Sep. 2025]** Appointed as a Junior Chair in the [CAG-Home](https://gchsp.dk/en/cag/cag-home-home/)!
-- **[Jul. 2025]** Published [AngleMe – Perfect Portrait Guide](https://angle-me.github.io/): capture your best angle every time! AngleMe guides you to perfect portraits with real-time feedback and smart camera tools.
 - **[Jun. 2025]** Our paper "Mixture-of-Experts based Model Market" has been accepted by the DEC - 3rd Data Economy Workshop, VLDB 2025!
-- **[May. 2025]** Published [DineMate](https://dinemate.net/): your smart foodie sidekick. It helps you decide what to eat! No more dinner decision spirals. Try it at 🔗 https://dinemate.net/ — and let me know what you think!
 
 Publications
 ------
