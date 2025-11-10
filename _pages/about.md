@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Postdoctoral Fellow at the [University of Copenhagen](https://www.ku.dk/) in the [Software, Data, People & Society (SDPS) Section](https://di.ku.dk/english/research/sdps/). I finished my Ph.D. in Computer Science in 2023 at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/index.aspx), working with [Yuan Luo](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=155) and [Fan Wu](https://www.cs.sjtu.edu.cn/~fwu/).
+Hi! I'm a Postdoctoral Fellow at the [University of Copenhagen](https://www.ku.dk/) in the [Software, Data, People & Society (SDPS) Section](https://di.ku.dk/english/research/sdps/). I finished my Ph.D. in Computer Science in 2023 at Shanghai Jiao Tong University, working with [Yuan Luo](https://english.seiee.sjtu.edu.cn/english/list/841-7-5.htm) and [Fan Wu](https://scholar.google.com/citations?user=NwoNqygAAAAJ&hl=en).
 
 I’m interested in the intersection of **economics**, **data science**, and **machine learning**. My research focuses on designing algorithms for new ways to trade and use data. I’m also excited about **verifiable machine learning** and **trustworthy AI**.
 
