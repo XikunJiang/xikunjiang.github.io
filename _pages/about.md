@@ -12,7 +12,7 @@ Hi! I'm a Postdoctoral Fellow at the University of Copenhagen in the [Software, 
 
 I’m interested in the intersection of **economics**, **data science**, and **machine learning**. My research focuses on designing algorithms for new ways to trade and use data. I’m also excited about **verifiable machine learning** and **trustworthy AI**.
 
-Outside of research, I love building fun side projects. You can check out my camera app [AngleMe – Perfect Portrait Guide](https://angle-me.github.io/) or my foodie helper app [DineMate](https://dinemate.net/).
+Outside of research, I love building fun side projects. You can check out my camera app [AngleMe – Perfect Portrait Guide](https://angle-me.github.io/), or my foodie helper app [DineMate](https://dinemate.net/), or my educational PC keyboard game [ColorSnap](https://www.roblox.com/games/132358277249063/ColorSnap).
 
 News
 ------
