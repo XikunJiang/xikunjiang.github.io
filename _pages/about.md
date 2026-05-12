@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Postdoctoral Fellow at the University of Copenhagen in the [Software, Data, People & Society (SDPS) Section](https://di.ku.dk/english/research/sdps/). I finished my Ph.D. in Computer Science in 2023 at Shanghai Jiao Tong University, working with [Yuan Luo](https://english.seiee.sjtu.edu.cn/english/list/841-7-5.htm) and [Fan Wu](https://scholar.google.com/citations?user=NwoNqygAAAAJ&hl=en).
+Hi! I will join [Aalborg University (CS-CPH campus)](https://www.cs.aau.dk/) as an Assistant Professor in June 2026. Previously, I was a Postdoctoral Researcher at the Department of Computer Science, University of Copenhagen. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023 and my Bachelor's degree from Sichuan University in 2017.
 
-I’m interested in the intersection of **economics**, **data science**, and **machine learning**. My research focuses on designing algorithms for new ways to trade and use data. I’m also excited about **verifiable machine learning** and **trustworthy AI**.
+My research focuses on **Trustworthy** and **Responsible AI**, with an emphasis on **privacy-preserving** methods and **AI verification** techniques for secure and reliable AI systems. I am also interested in designing algorithms and systems for **fair, secure, and efficient data trading and utilization**.
 
 Outside of research, I love building fun side projects. You can check out my camera app [AngleMe – Perfect Portrait Guide](https://angle-me.github.io/), or my foodie helper app [DineMate](https://dinemate.net/), or my educational PC keyboard game [ColorSnap](https://www.roblox.com/games/132358277249063/ColorSnap).
 
