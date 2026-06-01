@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I will join [Aalborg University (CS-CPH campus)](https://www.cs.aau.dk/) as an Assistant Professor in June 2026. Previously, I was a Postdoctoral Researcher at the Department of Computer Science, University of Copenhagen. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2023 and my Bachelor's degree from Sichuan University in 2017.
+Hi! I am an Assistant Professor in the Department of Computer Science at [Aalborg University (CS-CPH campus)](https://www.cs.aau.dk/) (Copenhagen campus). Previously, I was a Postdoctoral Researcher at the University of Copenhagen. I received my Ph.D. from Shanghai Jiao Tong University in 2023 and my Bachelor's degree from Sichuan University in 2017.
 
 My research focuses on **Trustworthy** and **Responsible AI**, with an emphasis on **privacy-preserving** methods and **AI verification** techniques for secure and reliable AI systems. I am also interested in designing algorithms and systems for **fair, secure, and efficient data trading and utilization**.
 
